@@ -1,0 +1,132 @@
+1
+00:00:00,000 --> 00:00:02,916
+What if I told you that artificial intelligence is
+
+2
+00:00:02,916 --> 00:00:05,831
+already shaping your day? Every time you unlock your
+
+3
+00:00:05,831 --> 00:00:08,747
+phone with your face, ask a voice assistant a
+
+4
+00:00:08,747 --> 00:00:11,662
+question, or get a movie recommendation, AI is quietly
+
+5
+00:00:11,662 --> 00:00:14,578
+working behind the scenes. But what is AI, really?
+
+6
+00:00:14,578 --> 00:00:17,493
+In simple terms, it is a computer system designed
+
+7
+00:00:17,493 --> 00:00:20,409
+to mimic human thinking. It learns from data, recognizes
+
+8
+00:00:20,409 --> 00:00:23,324
+patterns, and makes decisions. Unlike traditional software that follows
+
+9
+00:00:23,324 --> 00:00:26,240
+fixed instructions, AI adapts and improves over time. Think
+
+10
+00:00:26,240 --> 00:00:29,155
+of it as a digital brain that gets smarter
+
+11
+00:00:29,155 --> 00:00:32,071
+the more it processes information. From healthcare to entertainment,
+
+12
+00:00:32,071 --> 00:00:34,986
+AI is transforming how we live and work. The
+
+13
+00:00:34,986 --> 00:00:37,902
+question is no longer if it matters, but how
+
+14
+00:00:37,902 --> 00:00:40,817
+you will use it. So what makes AI different
+
+15
+00:00:40,817 --> 00:00:43,733
+from a regular program? A normal program can only
+
+16
+00:00:43,733 --> 00:00:46,648
+do exactly what a human coded it to do.
+
+17
+00:00:46,648 --> 00:00:49,564
+If something unexpected happens, it freezes or gives an
+
+18
+00:00:49,564 --> 00:00:52,479
+error. AI, on the other hand, can handle new
+
+19
+00:00:52,479 --> 00:00:55,395
+situations because it has learned from millions of examples.
+
+20
+00:00:55,395 --> 00:00:58,310
+There are two main types you should know. Narrow
+
+21
+00:00:58,310 --> 00:01:01,226
+AI is built for one specific task, like translating
+
+22
+00:01:01,226 --> 00:01:04,141
+languages or detecting fraud. General AI, the kind you
+
+23
+00:01:04,141 --> 00:01:07,057
+see in movies, would be a machine that can
+
+24
+00:01:07,057 --> 00:01:09,972
+think and learn across any domain, just like a
+
+25
+00:01:09,972 --> 00:01:12,888
+human. We have not built that yet, but researchers
+
+26
+00:01:12,888 --> 00:01:15,803
+are getting closer every year. The real power of
+
+27
+00:01:15,803 --> 00:01:18,719
+AI is not in replacing humans, it is in
+
+28
+00:01:18,719 --> 00:01:21,634
+amplifying what we can do. It handles the repetitive,
+
+29
+00:01:21,634 --> 00:01:24,550
+data-heavy work so you can focus on creativity, strategy,
+
+30
+00:01:24,550 --> 00:01:27,465
+and connection. Understanding AI is no longer optional. It
+
+31
+00:01:27,465 --> 00:01:30,381
+is a basic literacy for the modern world, and
+
+32
+00:01:30,381 --> 00:01:33,296
+the sooner you get comfortable with it, the more
+
+33
+00:01:33,296 --> 00:01:36,212
+prepared you will be for what is coming next.
+

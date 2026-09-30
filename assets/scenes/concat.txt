@@ -1,0 +1,5 @@
+file 'C:/Users/advaith/ai-video-platform/assets/scenes/normalized-1.mp4'
+file 'C:/Users/advaith/ai-video-platform/assets/scenes/normalized-2.mp4'
+file 'C:/Users/advaith/ai-video-platform/assets/scenes/normalized-3.mp4'
+file 'C:/Users/advaith/ai-video-platform/assets/scenes/normalized-4.mp4'
+file 'C:/Users/advaith/ai-video-platform/assets/scenes/normalized-5.mp4'

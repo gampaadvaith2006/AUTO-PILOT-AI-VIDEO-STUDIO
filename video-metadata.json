@@ -1,0 +1,23 @@
+{
+  "title": "What Is AI? Here's the Real Answer",
+  "description": "A quick, clear explanation of artificial intelligence and how it works in everyday life.",
+  "script": "What if I told you that artificial intelligence is already shaping your day? Every time you unlock your phone with your face, ask a voice assistant a question, or get a movie recommendation, AI is quietly working behind the scenes. But what is AI, really? In simple terms, it is a computer system designed to mimic human thinking. It learns from data, recognizes patterns, and makes decisions. Unlike traditional software that follows fixed instructions, AI adapts and improves over time. Think of it as a digital brain that gets smarter the more it processes information. From healthcare to entertainment, AI is transforming how we live and work. The question is no longer if it matters, but how you will use it. So what makes AI different from a regular program? A normal program can only do exactly what a human coded it to do. If something unexpected happens, it freezes or gives an error. AI, on the other hand, can handle new situations because it has learned from millions of examples. There are two main types you should know. Narrow AI is built for one specific task, like translating languages or detecting fraud. General AI, the kind you see in movies, would be a machine that can think and learn across any domain, just like a human. We have not built that yet, but researchers are getting closer every year. The real power of AI is not in replacing humans, it is in amplifying what we can do. It handles the repetitive, data-heavy work so you can focus on creativity, strategy, and connection. Understanding AI is no longer optional. It is a basic literacy for the modern world, and the sooner you get comfortable with it, the more prepared you will be for what is coming next.",
+  "scenes": [
+    {
+      "search": "person using smartphone with futuristic holographic interface"
+    },
+    {
+      "search": "close up of artificial intelligence circuit board and microchip"
+    },
+    {
+      "search": "data center server room with glowing blue lights"
+    },
+    {
+      "search": "woman talking to smart home voice assistant at kitchen"
+    },
+    {
+      "search": "robot hand touching human hand on digital background"
+    }
+  ],
+  "duration": 96.211882
+}
